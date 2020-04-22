@@ -1,0 +1,143 @@
+// For example
+
+// $DEF_FONT_LIGHT: 100;
+// $DEF_FONT_NORMAL: 400;
+// $DEF_FONT_BOLD: 700;
+
+// // General: 1rem = 16px dependend on html's font-size;
+// $DEF_FONT_SIZE_XS: 0.75rem;
+// $DEF_FONT_SIZE_SM: 0.875rem;
+// $DEF_FONT_SIZE_MD: 1rem; 
+// $DEF_FONT_SIZE_LG: 1.25rem; 
+// $DEF_FONT_SIZE_XL: 1.5rem; 
+// $DEF_FONT_SIZE_2X: 2em; 
+// $DEF_FONT_SIZE_3X: 2.5rem;
+// $DEF_FONT_SIZE_4X: 3rem; 
+// $DEF_FONT_SIZE_5X: 4rem;  
+
+// @mixin font-light {
+//   font-weight: $DEF_FONT_LIGHT;
+// }
+// @mixin font-normal {
+//   font-weight: $DEF_FONT_NORMAL;
+// }
+// @mixin font-bold {
+//   font-weight: $DEF_FONT_BOLD;
+// }
+
+// @mixin font-xs {
+//   font-size: $DEF_FONT_SIZE_XS;
+//   @include font-normal;
+// }
+// @mixin font-xs-light {
+//   @include font-xs;
+//   @include font-light;
+// }
+// @mixin font-xs-bold {
+//   @include font-xs;
+//   @include font-bold;
+// }
+
+// @mixin font-sm {
+//   font-size: $DEF_FONT_SIZE_SM;
+//   @include font-normal;
+// }
+// @mixin font-sm-light {
+//   @include font-sm;
+//   @include font-light;
+// }
+// @mixin font-sm-bold {
+//   @include font-sm;
+//   @include font-bold;
+// }
+
+// @mixin font-md {
+//   font-size: $DEF_FONT_SIZE_MD;
+//   @include font-normal;
+// }
+// @mixin font-md-light {
+//   @include font-md;
+//   @include font-light;
+// }
+// @mixin font-md-bold {
+//   @include font-md;
+//   @include font-bold;
+// }
+
+// @mixin font-lg {
+//   font-size: $DEF_FONT_SIZE_LG;
+//   @include font-normal;
+// }
+// @mixin font-lg-light {
+//   @include font-lg;
+//   @include font-light;
+// }
+// @mixin font-lg-bold {
+//   @include font-lg;
+//   @include font-bold;
+// }
+
+// @mixin font-xl {
+//   font-size: $DEF_FONT_SIZE_XL;
+//   @include font-normal;
+// }
+// @mixin font-xl-light {
+//   @include font-xl;
+//   @include font-light;
+// }
+// @mixin font-xl-bold {
+//   @include font-xl;
+//   @include font-bold;
+// }
+
+// @mixin font-2x {
+//   font-size: $DEF_FONT_SIZE_2X;
+//   @include font-normal;
+// }
+// @mixin font-2x-light {
+//   @include font-2x;
+//   @include font-light;
+// }
+// @mixin font-2x-bold {
+//   @include font-2x;
+//   @include font-bold;
+// }
+
+// @mixin font-3x {
+//   font-size: $DEF_FONT_SIZE_3X;
+//   @include font-normal;
+// }
+// @mixin font-3x-light {
+//   @include font-2x;
+//   @include font-light;
+// }
+// @mixin font-3x-bold {
+//   @include font-3x;
+//   @include font-bold;
+// }
+
+// @mixin font-4x {
+//   font-size: $DEF_FONT_SIZE_4X;
+//   @include font-normal;
+// }
+// @mixin font-4x-light {
+//   @include font-4x;
+//   @include font-light;
+// }
+// @mixin font-4x-bold {
+//   @include font-4x;
+//   @include font-bold;
+// }
+
+// @mixin font-5x {
+//   font-size: $DEF_FONT_SIZE_5X;
+//   @include font-normal;
+// }
+// @mixin font-5x-light {
+//   @include font-5x;
+//   @include font-light;
+// }
+// @mixin font-5x-bold {
+//   @include font-5x;
+//   @include font-bold;
+// }

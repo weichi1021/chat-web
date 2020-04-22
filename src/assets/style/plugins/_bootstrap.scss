@@ -1,0 +1,12 @@
+// For extend theme:
+// 
+// $theme-colors: ();
+// $theme-colors: map-merge(
+//   (
+//     "light-primary":  $theme-light-primary,
+//     "dark-primary":   $theme-dark-primary,
+//   ),
+//   $theme-colors
+// );
+
+@import '~bootstrap/scss/bootstrap.scss';
